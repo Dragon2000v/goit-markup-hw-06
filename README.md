@@ -1,2 +1,2 @@
-# goit-markup-hw-05
-Form elements. Accessibility
+# goit-markup-hw-06
+Adaptive design
